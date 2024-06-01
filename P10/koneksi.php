@@ -1,6 +1,6 @@
 <?php
 
-$host = "sql12.freesqldatabase.com";
+$host = "sql12.nanannan";
 $user = "sql12710825";
 $pass = "UWGh8qFR6w";
 $db = "sql12710825";
